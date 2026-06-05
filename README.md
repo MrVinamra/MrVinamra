@@ -67,8 +67,7 @@ I am passionate about leveraging **analytics, machine learning, forecasting, and
 | Project | Problem Solved | Key Result | Stack |
 |----------|---------------|------------|---------|
 | [🇹🇭 Dengue Forecasting](https://github.com/MrVinamra/Monthly_Dengue_Cases_forecasting_Thailand) | Predict future dengue outbreaks in Thailand | Improved forecasting accuracy using SARIMA + lag features | `Python` `Statsmodels` |
-| [N-gram_Language_Model](https://github.com/MrVinamra/N-gram_Language_Model) | Built from-scratch language models (Unigram/Bigram/Trigram) with MLE, Laplace, and Good-Turing smoothing to model text probability across domains |  (Unigram/Bigram/Trigram) with MLE, Laplace, and Good-Turing smoothing to model text probability across domains Good-Turing smoothing outperformed Laplace on sparse n-grams; domain shift quantified via perplexity across Wikipedia, ArXiv, and Financial corpora | 'Python' 'NLTK' 'Pandas'|
-| [📈 Time Series Analytics](YOUR_TIME_SERIES_REPO_LINK) | Build robust forecasting pipelines | Implemented ARIMA/SARIMA workflows | `Python` `NumPy` |
+| [📊 N-gram Language Model](https://github.com/MrVinamra/N-gram_Language_Model) | Built Unigram, Bigram, and Trigram models from scratch with MLE, Laplace, and Good-Turing smoothing | Good-Turing outperformed Laplace on sparse n-grams; domain shift quantified via perplexity on Wikipedia, ArXiv, and Financial corpora | `Python` `NLTK` `Pandas` |
 ---
 
 ## ⚙️ Tech Stack
